@@ -6,6 +6,7 @@ const PORT = 3000;
 
 // Create a server using the 'createServer' method of the 'http' module
 // This method accepts two parameters: 'req' (request) and 'res' (response)
+//   // End the response and send back a JSON object
 
 const server = http.createServer()
 
