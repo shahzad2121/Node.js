@@ -16,3 +16,5 @@ process.on("exit", (code) => {
 });
 celebrety.emit("race", "win");
 celebrety.emit("race", "lost");
+
+
