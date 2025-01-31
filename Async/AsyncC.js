@@ -15,6 +15,8 @@
 const urls = [
   "https://jsonplaceholder.typicode.com/posts",
   "https://jsonplaceholder.typicode.com/comments",
+  "https://jsonplaceholder.typicode.com/comments",
+
   "https://jsonplaceholder.typicode.com/users",
 ];
 
