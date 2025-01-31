@@ -7,3 +7,6 @@ function read() {
 export {
   read,
 };
+export {
+  read,
+};
