@@ -8,3 +8,6 @@ function send(url, data) {
 export {
   send,
 };
+export {
+  send,
+};
